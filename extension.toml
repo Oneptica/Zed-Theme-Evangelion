@@ -1,0 +1,7 @@
+id = "evangelion"
+name = "Evangelion"
+version = "0.0.1"
+schema_version = 1
+authors = ["Oneptica <dev@oneptica.com>"]
+description = "Neon Genesis Evangelion inspired dark theme. Unit 01 purple, LCL orange, and NERV aesthetics."
+repository = "https://github.com/Oneptica/Zed-Theme-Evangelion"

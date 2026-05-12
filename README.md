@@ -4,11 +4,11 @@ A Neon Genesis Evangelion inspired theme for the [Zed](https://zed.dev) editor. 
 
 ## Dark
 
-![Evangelion Dark](dark.png)
+![Evangelion Dark](Dark.png)
 
 ## Light
 
-![Evangelion Light](light.png)
+![Evangelion Light](Light.png)
 
 ## Contributing
 
